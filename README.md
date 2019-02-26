@@ -1,6 +1,2 @@
-echo  " # rsschool-2019Q1-codeacademy "  >> README.md
-мерзавец
-git add README.md
-git commit -m " первый коммит "
-Git Remote добавить источник https://github.com/your-name/rsschool-2019Q1-codeacademy.git
-git push -u мастер оригинала
+Alexei Zhishko
+HTML CSS Basics: https://www.codecademy.com/users/Onedayalexfree1053943534/achievements
